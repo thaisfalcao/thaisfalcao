@@ -1,7 +1,7 @@
 - 👋 Olá, bem-vindos!
-- 👀 Sou analista de dados e trabalho na área de supply de produtos para animais
+- 👀 Sou especialista em precificação e trabalho em uma startup no setor automotivo 
 - 🌱 Minhas linguagens de programação favoritas são Python e SQL
-- 👩‍💻 Tenho experiência na criação de dashboards em Tableau, Power BI, Qlik e Looker para geração de insights
+- 👩‍💻 Tenho experiência na criação de dashboards em Tableau, Power BI e Looker para geração de insights
 - 🤩 Fiz a minha transição para a área de dados em 2023
 - 💞️ Estou sempre em busca de parcerias, vamos evoluir juntos!
 - 📫 Para contatos: thaiscafalcao@gmail.com
